@@ -1,4 +1,4 @@
-## cta-trains
+## project-trainsearch
 A small train tracker app with simple functionality for:
 - Viewing estimated arrival times at a station
 - Searching for stations
